@@ -1,7 +1,7 @@
 ## MGuard
 
 ## Link it with your Discord Server
-[Add the Bot to your own server:] (https://discord.com/oauth2/authorize?client_id=1545843326299930644)
+[Add the Bot to your own server](https://discord.com/oauth2/authorize?client_id=1545843326299930644)
 
 ## My Links
 
